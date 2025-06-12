@@ -27,7 +27,7 @@
 </div>
 <h3 align="left">☎️ Connect with me:</h3>
 <div align="center" >
-    <a href="www.linkedin.com/in/ali-ahmed-95615a265">
+    <a href="https://www.linkedin.com/in/ali-ahmed-95615a265/">
         <img src="https://github.com/AliAhmed3/AliAhmed3/blob/main/images/Linkedin.png" alt="LinkedIn" height="45" width="45" />
     </a>
 </div>
