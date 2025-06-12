@@ -10,7 +10,7 @@
 
 
 <div>
-  <img align="right" alt="Coding" width="40%" src="https://github.com/AliAhmed3/AliAhmed3/blob/main/images/software.png" />
+  <img align="right" alt="Coding" width="40%" src="https://github.com/AliAhmed3/AliAhmed3/blob/main/images/Software-code-testing.gif" />
     <p align="left">
         🔭 I’m interested in Software Quality Control
         <br>
