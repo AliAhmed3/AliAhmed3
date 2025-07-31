@@ -21,7 +21,7 @@
         👯 I’m looking to involve in real projects
         <br>
         <br>
-        🤔 I’m looking for a job
+        👋 I’m looking for a job
         <br>
         
 </div>
