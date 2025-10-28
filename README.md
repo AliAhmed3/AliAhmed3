@@ -21,7 +21,7 @@
         👯 I’m looking to involve in real projects
         <br>
         <br>
-        👋 I’m looking for a job
+        👋 Now working as a software tester.
         <br>
         
 </div>
